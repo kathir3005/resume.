@@ -1,0 +1,61 @@
+<html>
+    <head>
+        <title>My Porfolio</title>
+        <style>
+            h2{
+               text-decoration: underline;
+            }
+            .cnt{
+                margin-left: 5%;
+            }
+            .tns{
+                margin-left: 5%;
+            }
+        </style>
+    </head>
+    <body>
+        <center>
+            <h1> kathiravan B</h1><h3>Web Developer</h3></center>
+            <hr><hr>
+          
+                <hr>
+                </h1>
+            <h2><b>CONTACT US</b></h2>
+             <div class="cnt">
+                 <ul><li>Email Id :kathiraina005@gmail.com</li>
+                  <li>Mobile No:7094099664</li>
+                  <li>Address:thanjavur,ayyempettai</li>
+                </ul><hr>
+             </div> <h2><b>ABOUT ME</b></h2>
+           <center><p>Passionate and detail oriented <b>web developer </b>with a strong foundation in html technology,recently graduated with a degree in 
+                [BE CSE] from [Anna University],equiped with hands on experience in html. </p>
+             </center>
+             <hr>
+             <h2> <B>TECHNICAL SKILLS</B></h2>
+            <div class="tns">
+                 <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JAVASCRIPT</li>
+                <li>PYTHON</li>
+            </ul>
+            </div>
+            <hr>
+            <h2><B>CERTIFICATION</B></h2>
+            <ul>
+            <li>Fullstack Web development</li>
+            <li>Inetrnet Of Things</li>
+            <li>Artificial Intelligence</li>
+           </ul> 
+           <hr>
+           <h2><B>EXTRA CURICULAR ACTIVITY</B></h2>
+           <ul>
+            <li>Cricket</li>
+            <li>Kabaddi</li>
+            <li>Football</li>
+           </ul>
+           
+
+
+    </body>
+</html>
